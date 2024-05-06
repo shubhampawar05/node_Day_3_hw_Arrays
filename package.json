@@ -1,0 +1,15 @@
+{
+  "name": "day_3_hw_arrays_utilitys",
+  "version": "1.0.4",
+  "description": "this package is useful for some usefull funtions for arrays ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "arrays",
+    "methods"
+  ],
+  "author": "shubhamchopde090@gmail.com",
+  "license": "ISC"
+}
